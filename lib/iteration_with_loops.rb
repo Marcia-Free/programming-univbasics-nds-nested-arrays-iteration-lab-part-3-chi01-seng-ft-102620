@@ -20,5 +20,3 @@ def join_nested_strings(src)
   end
   sentence_array.join(" ")
 end
-
-#.class()
