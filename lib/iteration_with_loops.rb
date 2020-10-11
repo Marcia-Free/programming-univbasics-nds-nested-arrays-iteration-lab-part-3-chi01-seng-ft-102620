@@ -18,7 +18,7 @@ def join_nested_strings(src)
     
     row_index += 1
   end
-  sentence_array.join()
+  sentence_array.join(" ")
 end
 
 #.class()
